@@ -3,14 +3,16 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2025-09-06 04:16+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-09-15 17:57+0000\n"
+"Last-Translator: Weblate Admin <weblate.admin@example.com>\n"
+"Language-Team: Bengali (Bangladesh) <http://weblate.example.com/projects/"
+"talentadore-translation/ta-translation/bn_BD/>\n"
 "Language: bn_BD\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.13.3\n"
 "Generated-By: Babel 2.16.0\n"
 
 #: advanced_search.py:123
@@ -202,7 +204,7 @@ msgstr ""
 
 #: advanced_search.py:864 advanced_search.py:865
 msgid "AND"
-msgstr ""
+msgstr "এবং"
 
 #: actions/job_ad_rendering.py:62 advanced_search.py:866 advanced_search.py:867
 #: advanced_search.py:874 models/career_page_configuration.py:465
