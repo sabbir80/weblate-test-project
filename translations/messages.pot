@@ -1,0 +1,1913 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2025-09-06 04:16+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: \n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: advanced_search.py:123
+msgid "Maximum record limit reached"
+msgstr ""
+
+#: advanced_search.py:834
+msgid "Add filter"
+msgstr ""
+
+#: advanced_search.py:835
+msgid "Add filter group"
+msgstr ""
+
+#: advanced_search.py:836
+msgid "After"
+msgstr ""
+
+#: actions/candidate_introduction_actions.py:187 advanced_search.py:837
+#: templates/popups.html:1002 views/i18n.py:743
+msgid "Select all"
+msgstr ""
+
+#: advanced_search.py:838
+msgid "Before"
+msgstr ""
+
+#: actions/applicant_actions.py:718 actions/interview_actions.py:317
+#: actions/job_ad_rendering.py:42 actions/notes_actions.py:98
+#: advanced_search.py:839 candidate_introduction_search.py:478
+#: forms/get_forms.py:819 models/flow_model.py:409 talent_search.py:396
+#: talent_search.py:414 talent_search.py:415 talent_search.py:425
+#: templates/add_application.html:117 templates/add_application.html:134
+#: templates/applicant.html:911 templates/applicant.html:1068
+#: templates/applicant.html:1112 templates/applicant.html:1211
+#: templates/applicant.html:1233 templates/applicant.html:1360
+#: templates/applicant.html:1381 templates/applicant.html:1473
+#: templates/applicant.html:1580 templates/applicant.html:1609
+#: templates/applications.html:118 templates/applications.html:152
+#: templates/applications.html:181 templates/applications.html:283
+#: templates/community_group_edit.html:37
+#: templates/edit_form_for_application.html:27
+#: templates/homepage_dashboard.html:115 templates/homepage_dashboard.html:222
+#: templates/layout_job_ad.html:202 templates/layout_main.html:105
+#: templates/mailer_overlays.html:72 templates/mailer_overlays.html:137
+#: templates/mailer_overlays.html:194 templates/message_overlay.html:89
+#: templates/message_setting_template.html:208 templates/my_tasks.html:578
+#: templates/my_tasks.html:685 templates/popups.html:16
+#: templates/popups.html:82 templates/popups.html:102 templates/popups.html:164
+#: templates/popups.html:218 templates/popups.html:253
+#: templates/popups.html:287 templates/popups.html:523
+#: templates/popups.html:683 templates/popups.html:782
+#: templates/popups.html:853 templates/popups.html:987
+#: templates/popups.html:1038 templates/popups.html:1059
+#: templates/popups.html:1110 templates/popups.html:1146
+#: templates/popups.html:1262 templates/popups.html:1344
+#: templates/popups.html:1480 templates/settings.html:95
+#: templates/settings_templates/company_profile_setting.html:72
+#: templates/settings_templates/notepads_setting.html:47
+#: templates/talent.html:522 templates/talent.html:629
+#: templates/talent.html:680 templates/talent_community.html:116
+#: templates/talent_community.html:271 templates/tc_add_talent.html:73
+#: templates/tc_add_talent.html:107 views/__init__.py:201
+#: views/api_handlers/position_ui_creation_modal.py:169 views/i18n.py:11
+#: views/i18n.py:47 views/i18n.py:64 views/i18n.py:89 views/i18n.py:90
+#: views/i18n.py:256 views/i18n.py:294 views/i18n.py:373 views/i18n.py:399
+#: views/i18n.py:447 views/i18n.py:497 views/i18n.py:671 views/i18n.py:788
+#: views/i18n.py:789 views/i18n.py:790 views/i18n.py:855 views/i18n.py:900
+#: views/i18n.py:926 views/vonq_views.py:365 views/vonq_views.py:366
+#: views/vonq_views.py:390 views/vonq_views.py:416 views/vonq_views.py:616
+msgid "Cancel"
+msgstr ""
+
+#: advanced_search.py:840
+msgid "Clear all"
+msgstr ""
+
+#: advanced_search.py:841 templates/popups.html:764 templates/popups.html:1244
+#: views/i18n.py:510
+msgid "Date"
+msgstr ""
+
+#: advanced_search.py:842
+msgid "Example boolean searches"
+msgstr ""
+
+#: advanced_search.py:843
+msgid "marketing economics"
+msgstr ""
+
+#: advanced_search.py:844
+msgid "Finds all applications that contain words marketing or economics or both"
+msgstr ""
+
+#: advanced_search.py:845
+msgid "+marketing +economics"
+msgstr ""
+
+#: advanced_search.py:846
+msgid "Both marketing and economics"
+msgstr ""
+
+#: advanced_search.py:847
+msgid "+marketing -economics"
+msgstr ""
+
+#: advanced_search.py:848
+msgid "Applications that contain marketing, but not economics"
+msgstr ""
+
+#: advanced_search.py:849
+msgid "\"software design\""
+msgstr ""
+
+#: advanced_search.py:850
+msgid "Contains \"software design\" as a phrase"
+msgstr ""
+
+#: advanced_search.py:851
+msgid "eco*"
+msgstr ""
+
+#: advanced_search.py:852
+msgid "Contains words which start with \"eco\" for example, economy, ecology"
+msgstr ""
+
+#: advanced_search.py:853
+msgid "john -snow"
+msgstr ""
+
+#: advanced_search.py:854
+msgid "Contains \"john\" but not \"snow\""
+msgstr ""
+
+#: advanced_search.py:855
+msgid "design -(\"team player\")"
+msgstr ""
+
+#: advanced_search.py:856
+msgid "Contains design, but does not contain the \"team player\" phrase"
+msgstr ""
+
+#: advanced_search.py:857
+msgid "Float comparison"
+msgstr ""
+
+#: advanced_search.py:858
+msgid "Text search"
+msgstr ""
+
+#: advanced_search.py:859
+msgid "From date"
+msgstr ""
+
+#: advanced_search.py:860
+msgid "Included in search"
+msgstr ""
+
+#: advanced_search.py:861 templates/add_application.html:16
+#: templates/applicant.html:668 templates/applicant.html:877
+#: templates/create_job.html:483 templates/homepage_dashboard.html:28
+#: templates/message_setting_template.html:27 templates/my_tasks.html:476
+#: templates/popups.html:14 templates/popups.html:100 templates/popups.html:216
+#: templates/popups.html:501 templates/popups.html:1363
+#: templates/positions.html:52
+#: templates/settings_templates/approval_process_setting.html:10
+#: templates/settings_templates/company_users_setting.html:12
+#: templates/settings_templates/custom_script_setting.html:11
+#: templates/settings_templates/custom_script_setting.html:60
+#: templates/settings_templates/feedback_setting.html:23
+#: templates/settings_templates/notepads_setting.html:12
+#: templates/settings_templates/notification_setting.html:10
+#: templates/settings_templates/recruitment_flow_setting.html:34
+#: templates/settings_templates/status_update_setting.html:38
+#: templates/talent_community_manage.html:78
+#: templates/user_email_templates/default_ta_template.html:130
+#: templates/user_email_templates/default_ta_template_min.html:1
+#: views/i18n.py:549
+msgid "Learn more"
+msgstr ""
+
+#: advanced_search.py:862
+msgid "Less or equal"
+msgstr ""
+
+#: advanced_search.py:863
+msgid "Less than"
+msgstr ""
+
+#: advanced_search.py:864 advanced_search.py:865
+msgid "AND"
+msgstr ""
+
+#: actions/job_ad_rendering.py:62 advanced_search.py:866 advanced_search.py:867
+#: advanced_search.py:874 models/career_page_configuration.py:465
+#: templates/message_setting_template.html:172
+#: templates/security/login_user.html:26
+#: templates/settings_templates/data_privacy_setting.html:34 views/i18n.py:187
+msgid "OR"
+msgstr ""
+
+#: advanced_search.py:868
+msgid "More than"
+msgstr ""
+
+#: advanced_search.py:869
+msgid "More or equal"
+msgstr ""
+
+#: advanced_search.py:870
+msgid "Equal to"
+msgstr ""
+
+#: advanced_search.py:871
+msgid "Must have"
+msgstr ""
+
+#: actions/anonymous_recruitment_actions.py:52
+#: actions/exporting_business_unit.py:45 advanced_search.py:872
+#: forms/__init__.py:362 introduced_candidate_search.py:194
+#: introduced_candidate_search.py:212 lib/cv_keskus/cv_keskus_form_model.py:109
+#: lib/jobilla/jobilla_form_model.py:91 lib/jobilla/jobilla_form_model.py:147
+#: lib/linkedin/recruiter_extractor_schema.py:176 lib/monster_form_model.py:118
+#: models/application_search_configuration.py:280
+#: models/application_search_configuration.py:772
+#: models/business_unit_form_model.py:25 talent_search.py:284
+#: talent_search.py:435 templates/applicant.html:1032
+#: templates/applicant.html:1081 templates/message_setting_template.html:150
+#: templates/settings_templates/custom_forms_setting.html:31 views/i18n.py:186
+#: views/i18n.py:726 views/vonq_views.py:157 views/vonq_views.py:501
+#: views/vonq_views.py:605
+msgid "Name"
+msgstr ""
+
+#: advanced_search.py:873
+msgid "NOT"
+msgstr ""
+
+#: advanced_search.py:875
+msgid "Remove filter"
+msgstr ""
+
+#: advanced_search.py:876
+msgid "Remove filter group"
+msgstr ""
+
+#: advanced_search.py:877 views/i18n.py:352
+msgid "Reset to default"
+msgstr ""
+
+#: advanced_search.py:878
+msgid "Search criteria"
+msgstr ""
+
+#: advanced_search.py:879 advanced_search.py:882
+#: templates/layout_signed_in.html:78 views/__init__.py:196 views/i18n.py:463
+#: views/i18n.py:741
+msgid "Search"
+msgstr ""
+
+#: advanced_search.py:880
+msgid "Select..."
+msgstr ""
+
+#: advanced_search.py:881
+msgid "Start typing..."
+msgstr ""
+
+#: advanced_search.py:883
+msgid "Advanced search"
+msgstr ""
+
+#: advanced_search.py:884
+msgid "To date"
+msgstr ""
+
+#: advanced_search.py:885
+msgid "Enter a location"
+msgstr ""
+
+#: advanced_search.py:886
+msgid "Searching..."
+msgstr ""
+
+#: advanced_search.py:887
+msgid "Apply search"
+msgstr ""
+
+#: advanced_search.py:895 templates/release_notes.html:1284
+msgid "Saved searches"
+msgstr ""
+
+#: advanced_search.py:896
+msgid "Save as"
+msgstr ""
+
+#: advanced_search.py:897
+msgid "Save search"
+msgstr ""
+
+#: advanced_search.py:898
+msgid "Save as default"
+msgstr ""
+
+#: actions/candidate_introduction_actions.py:757
+#: actions/introduced_candidate_serialization.py:353
+#: actions/job_ad_rendering.py:160 actions/job_ad_rendering.py:171
+#: actions/notes_actions.py:96 advanced_search.py:899 forms/get_forms.py:1308
+#: talent_search.py:413 talent_search.py:432 templates/add_application.html:118
+#: templates/admin/add_company_plugin.html:64
+#: templates/admin/new_company.html:36 templates/applicant.html:796
+#: templates/applicant.html:1113 templates/applicant.html:1234
+#: templates/applicant.html:1610 templates/applicant.html:1617
+#: templates/community_group_edit.html:86 templates/create_job.html:819
+#: templates/edit_form_for_application.html:28
+#: templates/message_setting_template.html:210 templates/popups.html:83
+#: templates/popups.html:219 templates/popups.html:288
+#: templates/popups.html:988 templates/popups.html:1345
+#: templates/popups.html:1481
+#: templates/settings_templates/approval_process_setting.html:81
+#: templates/settings_templates/archiving_settings.html:21
+#: templates/settings_templates/change_password_setting.html:35
+#: templates/settings_templates/company_profile_setting.html:73
+#: templates/settings_templates/custom_script_setting.html:48
+#: templates/settings_templates/custom_script_setting.html:95
+#: templates/settings_templates/data_privacy_setting.html:45
+#: templates/settings_templates/feedback_setting.html:76
+#: templates/settings_templates/language_setting.html:16
+#: templates/settings_templates/notepads_setting.html:49
+#: templates/settings_templates/notification_setting.html:82
+#: templates/settings_templates/signature_setting.html:92
+#: templates/settings_templates/status_update_setting.html:51
+#: templates/settings_templates/talent_community_setting.html:37
+#: templates/settings_templates/user_profile_setting.html:39
+#: templates/talent.html:681 templates/talent.html:691
+#: templates/tc_add_talent.html:74
+#: views/api_handlers/position_ui_application_form.py:94
+#: views/api_handlers/position_ui_approval_process.py:195
+#: views/api_handlers/position_ui_details.py:114
+#: views/api_handlers/position_ui_style_theme.py:64 views/i18n.py:341
+#: views/i18n.py:592 views/i18n.py:740 views/i18n.py:835 views/i18n.py:899
+#: views/i18n.py:959
+msgid "Save"
+msgstr ""
+
+#: advanced_search.py:900
+msgid "Confirm saved search removal"
+msgstr ""
+
+#: advanced_search.py:901
+msgid "Are you sure you want to delete {} saved search?"
+msgstr ""
+
+#: actions/job_ad_rendering.py:253 actions/notes_actions.py:92
+#: advanced_search.py:903 forms/get_forms.py:1283 talent_search.py:431
+#: templates/add_application.html:136 templates/applicant.html:1212
+#: templates/message_overlay.html:91 templates/settings.html:96
+#: templates/tc_add_talent.html:108 views/i18n.py:99 views/i18n.py:163
+#: views/i18n.py:189 views/i18n.py:295 views/i18n.py:515 views/i18n.py:699
+#: views/i18n.py:856 views/i18n.py:939
+msgid "Delete"
+msgstr ""
+
+#: advanced_search.py:905
+msgid "7 days ago"
+msgstr ""
+
+#: advanced_search.py:906
+msgid "7 days from now"
+msgstr ""
+
+#: advanced_search.py:907
+msgid "A month ago"
+msgstr ""
+
+#: advanced_search.py:908
+msgid "A month from now"
+msgstr ""
+
+#: advanced_search.py:909
+msgid "A year ago"
+msgstr ""
+
+#: advanced_search.py:910
+msgid "A year from now"
+msgstr ""
+
+#: actions/evaluation_actions.py:136 actions/exporting_common.py:52
+#: advanced_search_criteria.py:183 advanced_search_criteria.py:245
+#: advanced_search_criteria.py:262 advanced_search_criteria.py:293
+#: applicant_search.py:586 applicant_search.py:616 applicant_search.py:715
+#: lib/academic_positions/academic_positions_form_model.py:84
+#: lib/alpaca/field_model.py:829 lib/alpaca/field_model.py:833
+#: lib/arbetsformedlingen/arbetsformedlingen_form_model.py:254
+#: lib/arbetsformedlingen/arbetsformedlingen_form_model.py:263
+#: messaging/talent_community_invitation.py:37
+#: models/application_form_model.py:230 models/talent_form_model.py:253
+#: position_search.py:466 templates/layout_main.html:106 views/__init__.py:183
+#: views/i18n.py:150 views/i18n.py:631 views/i18n.py:764
+msgid "Yes"
+msgstr ""
+
+#: actions/evaluation_actions.py:134 actions/exporting_common.py:52
+#: advanced_search_criteria.py:183 advanced_search_criteria.py:245
+#: advanced_search_criteria.py:262 advanced_search_criteria.py:293
+#: applicant_search.py:586 applicant_search.py:616 applicant_search.py:715
+#: lib/academic_positions/academic_positions_form_model.py:83
+#: lib/alpaca/field_model.py:829 lib/alpaca/field_model.py:833
+#: lib/arbetsformedlingen/arbetsformedlingen_form_model.py:255
+#: lib/arbetsformedlingen/arbetsformedlingen_form_model.py:264
+#: models/application_form_model.py:230 models/talent_form_model.py:253
+#: position_search.py:466 views/__init__.py:184 views/i18n.py:728
+msgid "No"
+msgstr ""
+
+#: applicant_search.py:531
+msgid "In Talent Community"
+msgstr ""
+
+#: applicant_search.py:531
+msgid "Not in Talent Community"
+msgstr ""
+
+#: applicant_search.py:546
+msgid "No missing information"
+msgstr ""
+
+#: applicant_search.py:546 talent_search.py:454 templates/formhelpers.html:431
+#: views/i18n.py:406
+msgid "Email address"
+msgstr ""
+
+#: applicant_search.py:547
+msgid "Consent"
+msgstr ""
+
+#: actions/assessment_actions.py:104 actions/exporting_job.py:154
+#: actions/exporting_job.py:223 actions/widget_actions.py:283
+#: applicant_search.py:823 models/referral.py:30 position_search.py:602
+#: templates/my_tasks.html:318 templates/my_tasks.html:344
+msgid "In progress"
+msgstr ""
+
+#: actions/talent_community/common.py:42 applicant_search.py:823
+msgid "Completed"
+msgstr ""
+
+#: applicant_search.py:1221
+msgid "Documents"
+msgstr ""
+
+#: applicant_search.py:1222
+msgid "Descriptions"
+msgstr ""
+
+#: actions/job_ad_rendering.py:123 applicant_search.py:1223
+#: talent_search.py:408 templates/applicant.html:836 views/i18n.py:818
+#: views/talent_community_views.py:421
+msgid "Messages"
+msgstr ""
+
+#: actions/candidate_introduction_actions.py:996 actions/notes_actions.py:835
+#: actions/notes_actions.py:995 applicant_search.py:1224 talent_search.py:417
+#: templates/talent.html:408 templates/tc_add_talent.html:83 views/i18n.py:815
+msgid "Internal notes"
+msgstr ""
+
+#: actions/candidate_introduction_actions.py:183
+#: actions/candidate_introduction_actions.py:991 actions/notes_actions.py:865
+#: applicant_search.py:1225
+msgid "External notes"
+msgstr ""
+
+#: applicant_search.py:1226
+msgid "Other application data"
+msgstr ""
+
+#: applicant_search.py:1227
+msgid "Names"
+msgstr ""
+
+#: actions/exporting_job.py:150 actions/exporting_job.py:207
+#: candidate_introduction_search.py:51 candidate_introduction_search.py:96
+#: forms/__init__.py:99 forms/__init__.py:823
+#: templates/settings_templates/company_users_setting.html:24
+#: templates/welcome_process.html:101 views/i18n.py:39 views/i18n.py:230
+#: views/i18n.py:619
+msgid "Title"
+msgstr ""
+
+#: candidate_introduction_search.py:113 views/i18n.py:759
+msgid "Time created"
+msgstr ""
+
+#: candidate_introduction_search.py:130
+#: models/application_search_configuration.py:352
+msgid "Expiration"
+msgstr ""
+
+#: actions/exporting_application.py:118 actions/exporting_application.py:533
+#: actions/exporting_job.py:141 actions/exporting_job.py:211
+#: actions/exporting_jobrequisition.py:41 candidate_introduction_search.py:147
+#: lib/job_form_models.py:564 position_search.py:124 position_search.py:691
+#: talent_search.py:376 templates/add_application.html:45
+#: templates/applicant.html:259 templates/approval_history_template.html:4
+#: templates/candidate_assessment_hub.html:28 templates/my_tasks.html:317
+#: templates/my_tasks.html:343 templates/my_tasks.html:367
+#: templates/popups.html:1405
+#: templates/settings_templates/recruitment_flow_setting.html:14
+#: templates/settings_templates/recruitment_flow_setting.html:15
+#: templates/talent.html:213 templates/talent_community.html:261
+#: templates/user_email_templates/approval_history_template.html:4
+#: views/i18n.py:20 views/i18n.py:137 views/i18n.py:193 views/i18n.py:313
+#: views/i18n.py:604 views/i18n.py:754 views/i18n.py:987
+#: views/vonq_views.py:259 views/vonq_views.py:590
+msgid "Status"
+msgstr ""
+
+#: actions/candidate_introduction_actions.py:130
+#: candidate_introduction_search.py:164 views/i18n.py:891
+msgid "Candidates"
+msgstr ""
+
+#: candidate_introduction_search.py:181
+#: templates/settings_templates/company_users_setting.html:26 views/i18n.py:226
+#: views/i18n.py:738
+msgid "Role"
+msgstr ""
+
+#: actions/candidate_introduction_serialization.py:323
+#: candidate_introduction_search.py:351 forms/__init__.py:199
+#: permissions_descriptions.py:93
+msgid "Recipient"
+msgstr ""
+
+#: actions/candidate_introduction_serialization.py:322
+#: candidate_introduction_search.py:352 permissions_descriptions.py:94
+#: position_search.py:127
+msgid "Collaborator"
+msgstr ""
+
+#: actions/interview_actions.py:314 candidate_introduction_search.py:475
+msgid "Confirm introduction removal"
+msgstr ""
+
+#: actions/interview_actions.py:315 candidate_introduction_search.py:476
+msgid "Are you sure want to delete this introduction?"
+msgstr ""
+
+#: actions/interview_actions.py:316 candidate_introduction_search.py:477
+#: forms/get_forms.py:1304 talent_search.py:397 templates/applicant.html:1052
+#: templates/applicant.html:1062 templates/applicant.html:1100
+#: templates/applicant.html:1106 templates/popups.html:254 views/i18n.py:12
+#: views/i18n.py:48 views/i18n.py:129 views/i18n.py:162 views/i18n.py:375
+#: views/i18n.py:590 views/i18n.py:763 views/users_search.py:108
+msgid "Remove"
+msgstr ""
+
+#: actions/interview_actions.py:318 candidate_introduction_search.py:479
+msgid "Introduction role"
+msgstr ""
+
+#: candidate_introduction_search.py:480
+msgid "{} filtered out of {} total candidate introductions"
+msgstr ""
+
+#: actions/exporting_talent.py:72 actions/exporting_talent.py:92
+#: actions/support_actions.py:30 community_group_search.py:72
+#: models/application_search_configuration.py:245
+#: models/application_search_configuration.py:500
+#: models/application_search_configuration.py:743
+#: models/custom_messages_model.py:31 models/flow_model.py:1002
+#: permissions_descriptions.py:273 talent_search.py:389 talent_search.py:427
+#: templates/release_notes.html:400 templates/release_notes.html:411
+#: templates/release_notes.html:607 templates/release_notes.html:666
+#: templates/talent.html:149 templates/talent_community.html:5
+#: templates/talent_community.html:14 views/i18n.py:304 views/i18n.py:400
+#: views/i18n.py:1014 views/navigation_bar.py:88 views/settings.py:284
+msgid "Talent Community"
+msgstr ""
+
+#: community_group_search.py:73 forms/get_forms.py:1313 talent_search.py:428
+#: templates/applicant.html:203 views/__init__.py:180 views/i18n.py:401
+msgid "Talent Community groups"
+msgstr ""
+
+#: community_group_search.py:74 talent_search.py:434
+msgid "Active applications / all applications"
+msgstr ""
+
+#: community_group_search.py:75 talent_search.py:442
+msgid "No applications"
+msgstr ""
+
+#: community_group_search.py:76 talent_search.py:444
+msgid "No talent notes"
+msgstr ""
+
+#: actions/interview_serialization.py:34 actions/talent_actions.py:150
+#: community_group_search.py:77 community_group_search.py:85
+#: models/interview_slot.py:49 talent_search.py:446 talent_search.py:665
+#: templates/formhelpers.html:679 templates/talent.html:155 views/i18n.py:102
+#: views/i18n.py:901
+msgid "Confirmed"
+msgstr ""
+
+#: actions/talent_actions.py:151 community_group_search.py:78
+#: community_group_search.py:86 talent_search.py:447 talent_search.py:664
+#: views/i18n.py:228
+msgid "Not confirmed"
+msgstr ""
+
+#: actions/talent_actions.py:147 community_group_search.py:79
+#: talent_search.py:448 talent_search.py:668
+msgid "Not a member"
+msgstr ""
+
+#: community_group_search.py:83 views/vonq_views.py:411 views/vonq_views.py:417
+msgid "Group"
+msgstr ""
+
+#: actions/exporting_talent.py:299 actions/exporting_talent.py:321
+#: community_group_search.py:84 templates/create_job.html:22
+msgid "Talents"
+msgstr ""
+
+#: community_group_search.py:87 talent_search.py:577 templates/talent.html:274
+msgid "Referred"
+msgstr ""
+
+#: community_group_search.py:88
+msgid "Shared with"
+msgstr ""
+
+#: community_group_search.py:89 talent_search.py:576
+msgid "Expiring soon"
+msgstr ""
+
+#: file_storage.py:593 file_storage.py:607 file_storage.py:782
+#: forms/get_forms.py:1289 views/i18n.py:704
+msgid "Make sure the file you are trying to upload is an image."
+msgstr ""
+
+#: actions/attachment_service.py:142 actions/job_ad_rendering.py:49
+#: file_storage.py:632 file_storage.py:641 file_storage.py:650
+#: file_storage.py:664 file_storage.py:691 file_storage.py:745
+#: file_storage.py:815 file_storage.py:830 forms/get_forms.py:828
+#: views/__init__.py:146 views/applicants.py:2593 views/i18n.py:706
+msgid "File is not allowed. Allowed filetypes: {filetypes}"
+msgstr ""
+
+#: file_storage.py:793
+msgid "File is not allowed, try PDF instead."
+msgstr ""
+
+#: file_storage.py:804
+msgid "File is not allowed, try .pdf, .txt or image instead"
+msgstr ""
+
+#: actions/exporting_application.py:127 actions/exporting_talent.py:66
+#: actions/interview_actions.py:106 actions/job_alert_actions.py:92
+#: actions/reports/reference_check_log.py:77 forms/__init__.py:84
+#: forms/__init__.py:278 forms/__init__.py:702 forms/__init__.py:728
+#: forms/__init__.py:836 forms/get_forms.py:1288
+#: introduced_candidate_search.py:233 lib/cv_online/cv_online_form_model.py:123
+#: lib/linkedin/extractor_schema.py:12
+#: lib/linkedin/recruiter_extractor_schema.py:12
+#: lib/tyomarkkinatori/tyomarkkinatori_form_model.py:393
+#: models/application_search_configuration.py:339
+#: models/application_search_configuration.py:585
+#: models/talent_form_model.py:43 talent_search.py:262
+#: templates/applications.html:296 templates/welcome_process.html:82
+#: views/group_interview.py:77
+msgid "First name"
+msgstr ""
+
+#: actions/exporting_application.py:121 introduced_candidate_search.py:251
+#: position_search.py:115 position_search.py:128 position_search.py:723
+#: templates/applications.html:95 templates/my_tasks.html:315
+#: templates/my_tasks.html:341 templates/my_tasks.html:365
+#: templates/popups.html:1413 views/i18n.py:1007 views/i18n.py:1009
+msgid "Position"
+msgstr ""
+
+#: actions/exporting_application.py:112 actions/exporting_talent.py:67
+#: actions/interview_actions.py:118 actions/job_alert_actions.py:99
+#: actions/reports/reference_check_log.py:84 forms/__init__.py:90
+#: forms/__init__.py:286 forms/__init__.py:709 forms/__init__.py:735
+#: forms/__init__.py:843 forms/get_forms.py:1294
+#: introduced_candidate_search.py:269 lib/cv_online/cv_online_form_model.py:129
+#: lib/linkedin/extractor_schema.py:16
+#: lib/linkedin/recruiter_extractor_schema.py:16
+#: lib/tyomarkkinatori/tyomarkkinatori_form_model.py:399
+#: models/application_search_configuration.py:345
+#: models/application_search_configuration.py:595
+#: models/talent_form_model.py:50 talent_search.py:273
+#: templates/applications.html:297 templates/welcome_process.html:92
+#: views/group_interview.py:78
+msgid "Last name"
+msgstr ""
+
+#: introduced_candidate_search.py:425
+msgid "No introduced candidate found with ID {}"
+msgstr ""
+
+#: messages.py:5
+msgid ""
+"Hi!\n"
+"\n"
+"{firstname} {lastname} from {company} has created an account for you in "
+"TalentAdore recruitment system. Please find your user credentials below:"
+"\n"
+"\n"
+"Username: your e-mail address\n"
+"Password: {password}\n"
+"\n"
+"Go to the login page here: {url}\n"
+"\n"
+"When logging in, you will be asked to change your password. After doing "
+"that, you are ready to get started! \n"
+"\n"
+"Please find our helpful TalentAdore support guides <a "
+"href='{support_link}'>here</a>. If you encounter any issues, please "
+"contact our customer support: support@talentadore.com.\n"
+"\n"
+"Welcome to using TalentAdore Hire!\n"
+"\n"
+"Best regards, \n"
+"Team TalentAdore\n"
+msgstr ""
+
+#: messages.py:18
+msgid ""
+"Hi!\n"
+"\n"
+"{firstname} {lastname} from {company} has created an account for you in "
+"TalentAdore recruitment system. You can log in here: {url} by using your "
+"existing TalentAdore credentials.\n"
+"\n"
+"After logging in, you will be asked to choose which organization’s "
+"TalentAdore environment you want to use. \n"
+"\n"
+" Please find our helpful TalentAdore support guides <a "
+"href='{support_link}'>here</a>. If you encounter any issues, please "
+"contact customer support: support@talentadore.com.\n"
+"\n"
+"Best regards,\n"
+"Team TalentAdore"
+msgstr ""
+
+#: messages.py:30
+msgid ""
+"Your account in {url} has been activated. You can now log in to the "
+"system.\n"
+"\n"
+"See you there!\n"
+"\n"
+"Best regards, \n"
+"Team TalentAdore"
+msgstr ""
+
+#: messages.py:34
+msgid ""
+"Your TalentAdore account has been inactivated. Thank you for your "
+"involvement!"
+msgstr ""
+
+#: messages.py:37
+msgid ""
+"Hi\n"
+"\n"
+"{first_name} {last_name} has just applied to your {position} position. "
+"You can see the application here:\n"
+" {applicant_link}\n"
+"\n"
+"{unsubscribe_message}"
+msgstr ""
+
+#: messages.py:43
+msgid ""
+"Hi\n"
+"\n"
+"{interval_text} there was a total of {number_of_applicants} applicants "
+"who have applied to your positions. You can see the new applications "
+"here:\n"
+"{applicant_list}\n"
+"{unsubscribe_message}"
+msgstr ""
+
+#: messages.py:50
+msgid ""
+"Hi\n"
+"\n"
+" For the past week there have been no new applicants in the open "
+"positions.\n"
+"\n"
+"{unsubscribe_message}"
+msgstr ""
+
+#: messages.py:54
+msgid ""
+"Hi\n"
+"\n"
+"{interval_text} you have these ongoing tasks and interviews: \n"
+"{ongoing_tasks} \n"
+"\n"
+"{unsubscribe_message}"
+msgstr ""
+
+#: messages.py:59
+msgid ""
+"Hi\n"
+"\n"
+"The following positions changed status automatically in TalentAdore Hire:"
+"\n"
+"\n"
+"{positions_list_html}\n"
+"\n"
+"{unsubscribe_message}"
+msgstr ""
+
+#: messages.py:65
+msgid "You could have demonstrated more concretely your creativity."
+msgstr ""
+
+#: messages.py:66
+msgid "You convinced us that you are a very creative person!"
+msgstr ""
+
+#: messages.py:68
+msgid ""
+"Basic information:\n"
+"{first} {last}\n"
+"{email}\n"
+"{phone}\n"
+"\n"
+"Links:\n"
+"{links}\n"
+"\n"
+"Attachments:\n"
+"{attachments}\n"
+"\n"
+"{custom_fields}{description}"
+msgstr ""
+
+#: messages.py:76
+msgid ""
+"You have already applied for this job.\n"
+"\n"
+"You can edit your existing application with the following link: <a "
+"href='[EDIT_APPLICATION_LINK]'>[EDIT_APPLICATION_LINK]</a>.\n"
+"Please note that the link is valid only until your application has an "
+"outcome (hired/rejected/withdrawn)."
+msgstr ""
+
+#: messages.py:81
+msgid ""
+"Here is a summary of your application:\n"
+"\n"
+"[APPLICATION_INFORMATION]You can edit the application with the following "
+"link: <a href='[EDIT_APPLICATION_LINK]'>[EDIT_APPLICATION_LINK]</a>.\n"
+"Please note that the link is valid only until your application has an "
+"outcome (hired/rejected/withdrawn)."
+msgstr ""
+
+#: messages.py:87
+msgid ""
+"Here is a summary of your application:\n"
+"\n"
+"[APPLICATION_INFORMATION]"
+msgstr ""
+
+#: messages.py:91
+msgid "Your application"
+msgstr ""
+
+#, python-format
+#: messages.py:93
+msgid "Your application for %s position"
+msgstr ""
+
+#: messages.py:94
+msgid "Thank you for your application"
+msgstr ""
+
+#: messages.py:95
+msgid "Duplicate application for the position \"[JOB_NAME]\""
+msgstr ""
+
+#: messages.py:96 models/custom_messages_model.py:51
+msgid "Review has started"
+msgstr ""
+
+#: messages.py:97
+msgid "Status update on recruitment process"
+msgstr ""
+
+#: messages.py:98 messages.py:100
+msgid "Interview invitation for the position \"[JOB_NAME]\""
+msgstr ""
+
+#: messages.py:99 messages.py:148
+msgid "Online interview invitation for the position \"[JOB_NAME]\""
+msgstr ""
+
+#: messages.py:101 messages.py:141
+msgid "Phone interview invitation for the position \"[JOB_NAME]\""
+msgstr ""
+
+#: messages.py:102
+msgid "Feedback about your application"
+msgstr ""
+
+#: messages.py:103 messages.py:121 messages.py:122 messages.py:123
+#: messages.py:136 messages.py:137 messages.py:142 messages.py:143
+msgid "Cancelling interview"
+msgstr ""
+
+#: messages.py:104 messages.py:105
+msgid "Rescheduling interview for the position \"[JOB_NAME]\""
+msgstr ""
+
+#: messages.py:106 messages.py:107
+msgid "{companyname} interview confirmation"
+msgstr ""
+
+#: messages.py:108 templates/public_join_our_tc.html:4
+#: templates/talent_form.html:4 templates/talent_form_email_only.html:4
+msgid "Join our Talent Community"
+msgstr ""
+
+#: messages.py:109
+msgid "Notice of withdrawal"
+msgstr ""
+
+#: messages.py:110
+msgid "Interesting position available at {company_name}"
+msgstr ""
+
+#: messages.py:111
+msgid ""
+"[FIRST_NAME], please confirm if you’d like to be added to "
+"{company_name}’s Talent Community"
+msgstr ""
+
+#: messages.py:113
+msgid ""
+"[FIRST_NAME], would you like to continue to be a part of {company_name}’s"
+" Talent Community?"
+msgstr ""
+
+#: messages.py:115
+msgid "Access your information"
+msgstr ""
+
+#: messages.py:116
+msgid "Welcome to our Talent Community!"
+msgstr ""
+
+#: messages.py:117
+msgid "Additional information request"
+msgstr ""
+
+#: messages.py:118 models/flow_model.py:876
+msgid "Document request"
+msgstr ""
+
+#: messages.py:119
+msgid "You are invited to online assessment"
+msgstr ""
+
+#: messages.py:120
+msgid "Your assessment result"
+msgstr ""
+
+#: messages.py:124
+msgid "{companyname} online interview confirmation"
+msgstr ""
+
+#: messages.py:125 messages.py:126
+msgid "Rescheduling online interview for the position \"[JOB_NAME]\""
+msgstr ""
+
+#: messages.py:128
+msgid "Your invitation to video interview at [COMPANY_NAME]"
+msgstr ""
+
+#: messages.py:129
+msgid "Extended deadline for your video interview at [COMPANY_NAME]"
+msgstr ""
+
+#: messages.py:131
+msgid "Welcome to the pre-onboarding for your new role at [COMPANY_NAME]"
+msgstr ""
+
+#: messages.py:132
+msgid "Reminder about the pre-onboarding for your new role at [COMPANY_NAME]"
+msgstr ""
+
+#: messages.py:133
+msgid "Your pre-onboarding sign-in link"
+msgstr ""
+
+#: messages.py:134
+msgid "Your recruitment report"
+msgstr ""
+
+#: messages.py:135
+msgid "Group interview invitation for the position \"[JOB_NAME]\""
+msgstr ""
+
+#: messages.py:138
+msgid "[COMPANY_NAME] group interview confirmation"
+msgstr ""
+
+#: messages.py:139 messages.py:140
+msgid "Rescheduling group interview for the position \"[JOB_NAME]\""
+msgstr ""
+
+#: messages.py:144
+msgid "[COMPANY_NAME] phone interview confirmation"
+msgstr ""
+
+#: messages.py:145 messages.py:146
+msgid "Rescheduling phone interview for the position \"[JOB_NAME]\""
+msgstr ""
+
+#: messages.py:147
+msgid "Your new application edit link"
+msgstr ""
+
+#: messages.py:149
+msgid "You have been subscribed to job alert"
+msgstr ""
+
+#: actions/job_alert_actions.py:334 messages.py:150
+msgid "Top picks for you"
+msgstr ""
+
+#: messages.py:151
+msgid "You have updated your application"
+msgstr ""
+
+#: messages.py:154
+msgid ""
+"Hi,\n"
+"\n"
+"Welcome to use TalentAdore Hire! We are so happy that you have decided to"
+" join us. Start by verifying your e-mail address by clicking this link:"
+" \n"
+"\n"
+"{link}\n"
+"\n"
+"After verification and choosing your password, you are ready to go! We "
+"are excited to show you all the cool stuff we have in store for you. You "
+"can first take a short tour around the system to get some tips! Just "
+"click ‘next tip’ when you are ready to move to another view and follow "
+"the instructions. You can restart the tour anytime by clicking ‘restart "
+"tour’ in the top right corner under settings.\n"
+"\n"
+"Before creating a position, we advise you to modify your user profile, "
+"company profile and other settings. You can now also invite other users "
+"from your team to join you and use the solution!\n"
+"\n"
+"If there are any issues, please contact our customer support: "
+"{support_email}\n"
+"\n"
+"We are happy to assist you with anything!\n"
+"\n"
+"Best regards,\n"
+"\n"
+"Team TalentAdore"
+msgstr ""
+
+#: messages.py:176
+msgid ""
+"Hi,\n"
+"\n"
+"Someone in your company has changed the company e-mail address. This "
+"e-mail address is used sometimes when sending e-mails to your talents.\n"
+"\n"
+"Verify your company e-mail address by clicking this link: \n"
+"\n"
+"{verify_link}\n"
+"\n"
+"If there are any issues, please contact our customer support: "
+"{support_email}\n"
+"\n"
+"We are happy to assist you with anything!\n"
+"\n"
+"Best regards,\n"
+"\n"
+"Team TalentAdore"
+msgstr ""
+
+#: messages.py:188
+msgid ""
+"Hi {name}, \n"
+"\n"
+"You have been asked to reset your password in Talentadore.com. Click here"
+" to change your password:\n"
+"\n"
+"{recover_link}\n"
+"\n"
+"The link is valid for half an hour and if necessary, you can request a "
+"new link in {reset_url}\n"
+"\n"
+"If you are facing a problem, you can contact our customer service at: "
+"{support_email}\n"
+"\n"
+"Best regards,\n"
+"\n"
+"Team TalentAdore"
+msgstr ""
+
+#: messages.py:199
+msgid ""
+"Hi {name}, \n"
+"\n"
+"This is to inform you that the password for your account on "
+"TalentAdore.com has been successfully changed. If you did not initiate "
+"this change, please reset your password immediately by going to the "
+"following link and following the instructions: {reset_url}\n"
+"\n"
+"For any further assistance, feel free to contact our customer service at:"
+" {support_email}\n"
+"\n"
+"Best regards,\n"
+"\n"
+"Team TalentAdore"
+msgstr ""
+
+#: messages.py:209
+msgid ""
+"PS. I would like to store your information for future job opportunities. "
+"From time to time, we would send to you updates and first-hand "
+"information on interesting positions. Would that be ok? <a "
+"href='[TALENT_COMMUNITY_LINK]'>YES</a><br/><p style='font-size: "
+"10px;'><br/>If you do not want your data to be stored for future "
+"recruitments, you do not have to do anything, and your data will be "
+"erased as said in company's data storing policy.</p><br>"
+msgstr ""
+
+#: messages.py:217
+msgid ""
+"Hi,\n"
+"\n"
+"I would like to store your information for future job opportunities. From"
+" time to time, we would send to you updates and first-hand information on"
+" interesting positions. Would that be ok? [TALENT_COMMUNITY_LINK]\n"
+"\n"
+"If you do not want your data to be stored for future recruitments, you do"
+" not have to do anything, and your data will be erased as said in "
+"company's data storing policy.\n"
+"\n"
+"{additional_message}[SIGNATURE]"
+msgstr ""
+
+#: messages.py:228
+msgid ""
+"Hi [FIRST_NAME],\n"
+"\n"
+"Welcome to the team! We are thrilled to have you on board and we can’t "
+"wait to meet you on your first day.\n"
+"\n"
+"In order to guarantee a smooth start in our organization, we have "
+"prepared a welcome package for you. Please follow the link below to "
+"access your pre-onboarding materials.\n"
+"\n"
+"[PREONBOARDING_LINK]\n"
+"\n"
+"If you have any questions, please feel free to contact us.\n"
+"\n"
+"[SIGNATURE]"
+msgstr ""
+
+#: messages.py:239
+msgid ""
+"Hi [FIRST_NAME],\n"
+"\n"
+"Thank you for applying for position [JOB_NAME] at [COMPANY_NAME]! We’re "
+"impressed by your background and are excited to invite you to the next "
+"step in our process.\n"
+"\n"
+"You can record your video interview at your convenience using the link "
+"below. Please make sure to complete it by [VIDEO_INTERVIEW_DEADLINE].\n"
+"\n"
+"Start recording: [VIDEO_INTERVIEW_LINK]\n"
+"\n"
+"If you have any questions don’t hesitate to reach out to us.\n"
+"\n"
+"We can’t wait to learn more about you and your experiences!\n"
+"\n"
+"[SIGNATURE]"
+msgstr ""
+
+#: messages.py:251
+msgid ""
+"Hi [FIRST_NAME],\n"
+"\n"
+"I hope this message finds you well! I’m reaching out to let you know that"
+" we’ve extended the deadline to complete your video interview for the "
+"[JOB_NAME] position at [COMPANY_NAME].\n"
+"\n"
+"The new deadline to submit your responses is [VIDEO_INTERVIEW_DEADLINE]. "
+"You can access your interview using the link below:\n"
+"\n"
+"Start recording: [VIDEO_INTERVIEW_LINK]\n"
+"\n"
+"If you have any questions don’t hesitate to reach out to us.\n"
+"\n"
+"We look forward to receiving your responses and getting to know you "
+"better!\n"
+"\n"
+"[SIGNATURE]"
+msgstr ""
+
+#: messages.py:266
+msgid ""
+"Hi [FIRST_NAME],\n"
+"\n"
+"As your first day of work is coming closer, we would like to remind you "
+"about your [COMPANY_NAME] welcome package. Please follow the link below "
+"to access your pre-onboarding materials.\n"
+"\n"
+"[PREONBOARDING_LINK]\n"
+"\n"
+"If you have any questions, please feel free to contact us.\n"
+"\n"
+"[SIGNATURE]"
+msgstr ""
+
+#: messages.py:276
+msgid ""
+"Hi [FIRST_NAME],\n"
+"\n"
+"Please follow the link below to access your pre-onboarding materials.\n"
+"\n"
+"[PREONBOARDING_LINK]\n"
+"\n"
+"If you did not send us a request, please ignore this message.\n"
+"\n"
+"[SIGNATURE]"
+msgstr ""
+
+#: messages.py:284
+msgid ""
+"Hi [FIRST_NAME],\n"
+"\n"
+"We're writing to acknowledge your recent application attempt for the "
+"[JOB_NAME] position at [COMPANY_NAME].\n"
+"\n"
+"Our records show that you have already submitted an application for this "
+"specific role.\n"
+"\n"
+"[EDIT_INFORMATION]\n"
+"\n"
+"If you have any questions, please don't hesitate to contact us.\n"
+"\n"
+"Thank you for your interest.\n"
+"\n"
+"[SIGNATURE]"
+msgstr ""
+
+#: messages.py:296
+msgid ""
+"Hi [FIRST_NAME],\n"
+"\n"
+"I have an interesting position I think you might be interested in. In "
+"case you would like to participate in the recruitment process for this "
+"position, please, click the link below and apply.\n"
+"[ACTIVATION_LINKS]\n"
+"We would love to see you apply.\n"
+"\n"
+"{additional_message}[SIGNATURE]"
+msgstr ""
+
+#: messages.py:307
+msgid ""
+"Hi [FIRST_NAME],\n"
+"\n"
+"I have interesting positions I think you might be interested in. In case "
+"you would like to participate in any of the recruitment processes, "
+"please, click the links below to apply.\n"
+"[ACTIVATION_LINKS]\n"
+"We would love to see you apply.\n"
+"\n"
+"{additional_message}[SIGNATURE]"
+msgstr ""
+
+#: messages.py:318
+msgid ""
+"Hello [NAME], \n"
+"\n"
+"We are excited you are part of our Talent Community. You probably know "
+"friends or colleagues that could also be great matches to work in our "
+"company. We offer you a beautiful way to help them now. When such persons"
+" come to your mind, we would highly appreciate if you could send his or "
+"her information to us using the following link:\n"
+"\n"
+"<a href='[REFERRAL_LINK]'>[REFERRAL_LINK]</a>\n"
+"\n"
+"Wishing you a wonderful day.\n"
+"\n"
+"{signature}"
+msgstr ""
+
+#: messages.py:331
+msgid ""
+"Hi [NAME]\n"
+"\n"
+"You have booked {interview_type} in [JOB_NAME] position in [COMPANY_NAME]"
+" at [INTERVIEW_TIME] ([TIMEZONE]).\n"
+"[LOCATION_INFO]"
+msgstr ""
+
+#: messages.py:338
+msgid ""
+"Hi [FIRST_NAME]\n"
+"\n"
+"We have booked a group interview with you in [JOB_NAME] position in "
+"[COMPANY_NAME] at [INTERVIEW_TIME] ([TIMEZONE]).\n"
+"\n"
+"Location: [LOCATION]\n"
+"Note: [NOTE]\n"
+msgstr ""
+
+#: messages.py:346
+msgid ""
+"Hello [FIRST_NAME],\n"
+"\n"
+"We would like to invite you for an online interview. Please use the link "
+"below to schedule a time that works best for you.\n"
+"\n"
+"[LINK]\n"
+"\n"
+"Looking forward to speaking with you!\n"
+"\n"
+"[SIGNATURE]"
+msgstr ""
+
+#: messages.py:355
+msgid ""
+"Hi [FIRST_NAME],\n"
+"\n"
+"The online interview for position [JOB_NAME] at [COMPANY_NAME] is now "
+"confirmed.\n"
+"\n"
+"Date and time: [INTERVIEW_TIME] ([TIMEZONE])\n"
+"\n"
+"Join the online interview through your personal link:\n"
+"[MEETING_LINK]\n"
+"\n"
+"You can now test your device compatibility by entering the waiting lobby."
+" System will automatically check that your camera and microphone are "
+"working properly.\n"
+"\n"
+"Supported desktop browsers:\n"
+"Chrome, Firefox and Safari\n"
+"\n"
+"Mobile support:\n"
+"- iPhone/iPad: Safari\n"
+"- Android: Firefox and Chrome\n"
+"\n"
+"If you have technical problems, please contact support@recright.com.\n"
+"\n"
+"[SIGNATURE]"
+msgstr ""
+
+#: messages.py:372
+msgid ""
+"Hi {user_first_name},\n"
+"\n"
+"{applicant_name} has confirmed the time for an online interview regarding"
+" position {position_name}.\n"
+"\n"
+"Date and time: {time} ({timezone}).\n"
+"\n"
+"Join the online interview through your personal link:\n"
+"{link}\n"
+"\n"
+"You can reschedule this interview through the candidate’s profile if "
+"needed.\n"
+"\n"
+"You can now test your device compatibility by entering the waiting lobby."
+" System will automatically check that your camera and microphone are "
+"working properly.\n"
+"\n"
+"Supported desktop browsers:\n"
+"Chrome, Firefox and Safari\n"
+"\n"
+"Mobile support:\n"
+"- iPhone/iPad: Safari\n"
+"- Android: Firefox and Chrome\n"
+"\n"
+"If you have technical problems, please contact support@recright.com.\n"
+"\n"
+"Have a wonderful interview!\n"
+"\n"
+"Team TalentAdore\n"
+"\n"
+"P.S. You can add your TalentAdore interview calendar to an external "
+"calendar via this iCal link:\n"
+"{ical_link}"
+msgstr ""
+
+#: messages.py:392
+msgid ""
+"Hi {user_first_name},\n"
+"\n"
+"You have been invited to the online interview with {applicant_name} "
+"regarding position {position_name}.\n"
+"\n"
+"Date and time: {time} ({timezone}).\n"
+"\n"
+"Join the online interview through your personal link:\n"
+"{link}\n"
+"\n"
+"You can now test your device compatibility by entering the waiting lobby."
+" System will automatically check that your camera and microphone are "
+"working properly.\n"
+"\n"
+"Supported desktop browsers:\n"
+"Chrome, Firefox and Safari\n"
+"\n"
+"Mobile support:\n"
+"- iPhone/iPad: Safari\n"
+"- Android: Firefox and Chrome\n"
+"\n"
+"If you have technical problems, please contact support@recright.com.\n"
+"\n"
+"Have a wonderful interview!\n"
+"\n"
+"Team TalentAdore\n"
+"\n"
+"P.S. You can add your TalentAdore interview calendar to an external "
+"calendar via this iCal link:\n"
+"{ical_link}"
+msgstr ""
+
+#: messages.py:411
+msgid ""
+"Hi\n"
+"\n"
+"{applicant_name} has confirmed time for {interview_type} in "
+"{position_name} position at {time} ({timezone}).\n"
+"\n"
+"You can see it in your calendar in {calendar_link}. If you want to add it"
+" in any external calendar, use this iCal link: {ical_link}. You can "
+"reschedule this meeting through the applicant profile ({profile_link}) if"
+" needed.\n"
+"\n"
+"Have a wonderful interview! \n"
+"\n"
+"TalentAdore"
+msgstr ""
+
+#: messages.py:419
+msgid ""
+"Hi,\n"
+"\n"
+"{request_name} would like you to approve {job_name} job requisition. Here"
+" are the details of the job requisition:\n"
+"\n"
+"Position name: {job_name}\n"
+"{visibility}\n"
+"Application period date: {application_period}\n"
+"Type of employment: {employment_type}\n"
+"Job description: {job_description}\n"
+"Internal note: {internal_note}\n"
+"Created by: {job_creator}\n"
+"Hiring manager: {hiring_managers}\n"
+"Reason for vacancy: {reason_for_vacancy}\n"
+"\n"
+"{approval_history_html}\n"
+"You can click this link to view and approve the job requisition: <a "
+"href='{preview_link}'>{preview_link}</a>\n"
+"\n"
+"Best regards, \n"
+"Team TalentAdore"
+msgstr ""
+
+#: messages.py:438
+msgid ""
+"Hi,\n"
+"\n"
+"{user} has assigned you a task. Task details are as below: \n"
+"\n"
+"Assigner: {assigner_email}\n"
+"Date: {date}\n"
+"Note: {note}\n"
+"{applicant_link}\n"
+"PS. To view this task in your TalentAdore Hire, please go to "
+"{notifications_link}\n"
+"\n"
+"Best regards, \n"
+"Team TalentAdore"
+msgstr ""
+
+#: messages.py:451
+msgid ""
+"Hi {user_first_name},\n"
+"\n"
+"I would like to introduce selected candidates to you. Please see the "
+"details below.\n"
+"\n"
+"Title: {title}\n"
+"Message: {introduction_message}\n"
+"\n"
+"Click <a href='{candidate_introduction_link}'>here</a> to review "
+"candidates.\n"
+"Link expiration: {expiration}\n"
+"\n"
+"{signature}"
+msgstr ""
+
+#: messages.py:461
+msgid ""
+"Hi {user_first_name},\n"
+"\n"
+"{user} would like to introduce new candidates to you and has added you as"
+" a collaborator. Please see details below: \n"
+"\n"
+"Title: {title}\n"
+"<a href='{candidate_introduction_link}'>View candidates</a>\n"
+"Message from {user}: {introduction_message}\n"
+"Link expiration: {expiration}\n"
+"\n"
+"Best regards, \n"
+"Team TalentAdore"
+msgstr ""
+
+#: messages.py:473
+msgid ""
+"Hi {user_first_name},\n"
+"\n"
+"{user} has sent you a message. Please see details below: \n"
+"\n"
+"Title: {title}\n"
+"<a href='{candidate_introduction_link}'>View candidates</a>\n"
+"Message from {user}: {introduction_message}\n"
+"\n"
+"Best regards, \n"
+"Team TalentAdore"
+msgstr ""
+
+#: messages.py:483
+msgid ""
+"Hi {user_first_name},\n"
+"\n"
+"{user} has submitted new material to a candidate introduction you are a "
+"collaborator in. Please see details below: \n"
+"\n"
+"Title: {title}\n"
+"<a href='{candidate_introduction_link}'>View candidates</a>\n"
+"\n"
+"Best regards, \n"
+"Team TalentAdore"
+msgstr ""
+
+#: messages.py:492
+msgid ""
+"Hi {user_first_name},\n"
+"\n"
+"{user} has added a note to an introduced candidate. Please see details "
+"below: \n"
+"\n"
+"Introduction title: {title}\n"
+"<a href='{candidate_introduction_link}'>View candidate</a>\n"
+"Note: {note_message}\n"
+"\n"
+"Best regards, \n"
+"Team TalentAdore"
+msgstr ""
+
+#: messages.py:502
+msgid ""
+"Hi {user_first_name},\n"
+"\n"
+"{user} has edited a note of an introduced candidate. Please see details "
+"below: \n"
+"\n"
+"Introduction title: {title}\n"
+"<a href='{candidate_introduction_link}'>View candidate</a>\n"
+"Old note: {old_note_message}\n"
+"Edited note: {note_message}\n"
+"\n"
+"Best regards, \n"
+"Team TalentAdore"
+msgstr ""
+
+#: messages.py:513
+msgid ""
+"Hi,\n"
+"\n"
+"Approver {reviewer} left a comment for the {job_name} job requisition. "
+"You can read the comment below: \n"
+"\n"
+"{comment}\n"
+"\n"
+"{approval_history_html}\n"
+"Best regards, \n"
+"Team TalentAdore"
+msgstr ""
+
+#: messages.py:523
+msgid ""
+"Hi,\n"
+"\n"
+"{reviewer} has approved the {job_name} job requisition.\n"
+"\n"
+"{comment}{approval_history_html}\n"
+"Best regards, \n"
+"Team TalentAdore"
+msgstr ""
+
+#: messages.py:532
+msgid ""
+"Hi [NAME],\n"
+"\n"
+"Thank you for reaching to us. You can view your data we have on our "
+"system by clicking the link below:\n"
+"\n"
+"<a href='{link}'>{link}</a>\n"
+"\n"
+"This link will expire after 10 days.\n"
+"\n"
+"{signature}"
+msgstr ""
+
+#: messages.py:541
+msgid ""
+"Hi [NAME], \n"
+"\n"
+"Sorry to hear you have withdrawn your job application for position "
+"[JOB_NAME].\n"
+"\n"
+"In case it was by mistake, please contact {recruiter_email}.\n"
+"\n"
+"We wish you all the best in your future endeavors and we hope you keep "
+"our company in mind when you are next time looking for a job!\n"
+msgstr ""
+
+#: messages.py:549
+msgid ""
+"Hi {recruiter_name},\n"
+"\n"
+"Applicant {applicant_name} has withdrawn from the position "
+"{position_name}.\n"
+"You can click this link to view the application: {applicant_link}\n"
+"\n"
+"{withdrawal_reason}Best regards, \n"
+"Team TalentAdore"
+msgstr ""
+
+#: messages.py:558
+msgid ""
+"Hi {username},\n"
+"\n"
+"{mentioner} has mentioned you in the system.\n"
+"Click here to see where you have been mentioned: {link}\n"
+"\n"
+"{unsubscribe_message}\n"
+"Best regards, \n"
+"Team TalentAdore"
+msgstr ""
+
+#: messages.py:567
+msgid ""
+"Hi {username},\n"
+"\n"
+"{mentioner} has mentioned you in TalentAdore Hire regarding the "
+"recruitment process for the position: {job_name}.\n"
+"Please click here for further information: {link}\n"
+"\n"
+"{unsubscribe_message}\n"
+"Best regards,\n"
+"Team TalentAdore"
+msgstr ""
+
+#: messages.py:577
+msgid ""
+"This message was sent to {recipient_email}. You are receiving this "
+"because you're a user of TalentAdore Hire. We hope you found this message"
+" to be useful. However, if you would rather not receive notifications "
+"from TalentAdore Hire, please manage your notification settings "
+"{notification_link}.\n"
+"\n"
+"Please read our <a href='{term_link}'>Privacy Policy</a>.\n"
+"\n"
+msgstr ""
+
+#: messages.py:586
+msgid ""
+"Dear [FIRST_NAME], \n"
+"\n"
+"Would you like to continue to be a part of our Talent Community and stay "
+"up-to-date on our new job opportunities? If Yes, please click the "
+"following link: [TALENT_COMMUNITY_RENEWAL_LINK]\n"
+"\n"
+"You can use this link to access your Talent Community information: \n"
+"<a href='[TALENT_EDIT_LINK]'>[TALENT_EDIT_LINK]</a>\n"
+"\n"
+"{additional_message}[SIGNATURE]\n"
+"\n"
+"If you do not want your data to be stored for future recruitments, you do"
+" not have to do anything, and your data will be erased as said in "
+"company's data storing policy."
+msgstr ""
+
+#: messages.py:600
+msgid ""
+"Dear [FIRST_NAME],\n"
+"\n"
+"We have invited you to join our Talent Community but it seems you have "
+"not yet confirmed the invite. As a member of our Talent Community, you "
+"will receive updates and first-hand information on positions that we "
+"think could be suitable for you. If you’d like to join our Talent "
+"Community and stay up-to-date on our new job opportunities, please click "
+"here [TALENT_COMMUNITY_LINK].\n"
+"\n"
+"{additional_message}[SIGNATURE]\n"
+"\n"
+"If you do not want your data to be stored for future recruitments, you do"
+" not have to do anything, and your data will be erased as said in "
+"company's data storing policy."
+msgstr ""
+
+#: messages.py:614
+msgid ""
+"First name: {first_name} \n"
+"Last name: {last_name} \n"
+"Email: {email} \n"
+"Telephone: {telephone} \n"
+"LinkedIn: {linkedin} \n"
+"Hometown: {hometown} \n"
+"Description: {description}\n"
+"CV: {cv} \n"
+"Other attachment: {other_attachment}\n"
+msgstr ""
+
+#: messages.py:626
+msgid ""
+"Hi [FIRST_NAME], \n"
+"\n"
+"Thank you for joining our Talent Community! \n"
+"\n"
+"We will email you about any future career opportunities that we think "
+"might fit your profile. We hope that you will decide to apply when we do."
+" \n"
+"\n"
+"Here is the summary of your information: \n"
+"[SUMMARY]\n"
+"You can use this link to access your Talent Community information: \n"
+"<a href='[TALENT_EDIT_LINK]'>[TALENT_EDIT_LINK]</a>\n"
+"\n"
+"Thank you for your interest in our company and have a great day!\n"
+"\n"
+"{additional_message}[SIGNATURE]"
+msgstr ""
+
+#: messages.py:640
+msgid ""
+"Hi [FIRST_NAME], \n"
+"\n"
+"We're pleased to see that you've subscribed to our job alerts.\n"
+"\n"
+"We will inform you about new job opportunities at [COMPANY_NAME]. Should "
+"you come across an interesting position, please feel free to apply or "
+"recommend it to your friends.\n"
+"\n"
+"Thank you for your interest in our company and have a great day!\n"
+"\n"
+"[SIGNATURE]"
+msgstr ""
+
+#: messages.py:650
+msgid ""
+"Hi\n"
+"\n"
+"{first_name} {last_name} has joined Talent Community! You can see the "
+"talent here:\n"
+" {talent_link}\n"
+"\n"
+"{unsubscribe_message}"
+msgstr ""
+
+#: messages.py:656
+msgid ""
+"Hi [NAME],\n"
+"\n"
+"We kindly ask you to provide us with additional information for your "
+"employment contract. Please follow the link below to fill out the form "
+"and send it to us.\n"
+"\n"
+"Please note that the link is private and the form can be submitted only "
+"once.\n"
+"\n"
+"[ADDITIONAL_FORM_LINK]\n"
+"\n"
+"Should you have any additional questions, please do not hesitate to ask.\n"
+"\n"
+"{additional_message}[SIGNATURE]"
+msgstr ""
+
+#: messages.py:668
+msgid ""
+"Hi [NAME],\n"
+"\n"
+"We kindly request that you provide us with the necessary documents. "
+"Please follow the link below to fill out the form and send it to us.\n"
+"\n"
+"Please note that the link is private and the form can be submitted only "
+"once.\n"
+"\n"
+"[ADDITIONAL_FORM_LINK]\n"
+"\n"
+"Should you have any additional questions, please do not hesitate to ask.\n"
+"\n"
+"{additional_message}[SIGNATURE]"
+msgstr ""
+
+#: messages.py:679
+msgid ""
+"Hi [NAME],\n"
+"\n"
+"Thank you for updating your application.\n"
+"\n"
+"[SUMMARY]\n"
+"\n"
+"[SIGNATURE]"
+msgstr ""
+
+#: messages.py:686
+msgid ""
+"Hi\n"
+"\n"
+"{first_name} {last_name} has submitted additional information \n"
+"You can see the information here: \n"
+" {application_link}\n"
+"\n"
+"{unsubscribe_message}"
+msgstr ""
+
+#: messages.py:692
+msgid ""
+"Hi\n"
+"\n"
+"{first_name} {last_name} has submitted video interview answers for the "
+"position {job_name}. \n"
+"You can see the information here: \n"
+" {application_link}\n"
+"\n"
+"{unsubscribe_message}"
+msgstr ""
+
+#: messages.py:698
+msgid ""
+"Hello\n"
+"\n"
+"Candidate {first_name} {last_name} has sent a message related to the "
+"{position} position. You can view the message here:\n"
+"\n"
+"{application_link}\n"
+"\n"
+"{unsubscribe_message}"
+msgstr ""
+
+#: messages.py:704
+msgid ""
+"You are receiving this message because you're a collaborator to the "
+"position in question. We hope you found this message useful.\n"
+"\n"
+"Please read our <a href='{term_link}'>Privacy Policy</a>."
+msgstr ""
+
+#: messages.py:709
+msgid ""
+"Hi [NAME],\n"
+"\n"
+"You are invited to take part in an online assessment. When you have time,"
+" please follow the link below to perform assessment tests:\n"
+"\n"
+"[ASSESSMENT_TOOL_LINK]\n"
+"\n"
+"Should you have any additional questions, please do not hesitate to ask.\n"
+"\n"
+"{additional_message}[SIGNATURE]"
+msgstr ""
+
+#: messages.py:720
+msgid ""
+"Hi\n"
+"\n"
+"{first_name} {last_name} has completed an online assessment. \n"
+"You can see the information here: \n"
+" {application_link}\n"
+"\n"
+"{unsubscribe_message}"
+msgstr ""
