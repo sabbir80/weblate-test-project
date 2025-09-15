@@ -1,17 +1,18 @@
-
 msgid ""
 msgstr ""
-"Project-Id-Version:  \n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-09-06 04:16+0000\n"
-"PO-Revision-Date: 2025-09-06 06:50+0300\n"
-"Last-Translator: TA RnD / AI\n"
+"PO-Revision-Date: 2025-09-15 17:53+0000\n"
+"Last-Translator: Weblate Admin <weblate.admin@example.com>\n"
+"Language-Team: Finnish <http://weblate.example.com/projects/"
+"talentadore-translation/ta-translation/fi/>\n"
 "Language: fi\n"
-"Language-Team: fi <LL@li.org>\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.13.3\n"
 "Generated-By: Babel 2.16.0\n"
 
 #: advanced_search.py:123
@@ -11111,7 +11112,7 @@ msgstr "5 minuuttia"
 
 #: actions/video_recorder_actions.py:307 actions/video_recorder_actions.py:406
 msgid "10 min"
-msgstr "10 min"
+msgstr "10 sabbir"
 
 #: actions/video_recorder_actions.py:322 actions/video_recorder_actions.py:421
 msgid "Max length of the video is 60 seconds."
@@ -29447,4 +29448,3 @@ msgstr "Joitakin kursseja suoritettu"
 
 msgid "CCL Sponsored"
 msgstr "CCL Sponsored"
-
