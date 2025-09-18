@@ -3,10 +3,10 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-09-06 04:16+0000\n"
-"PO-Revision-Date: 2025-09-15 17:53+0000\n"
-"Last-Translator: Weblate Admin <weblate.admin@example.com>\n"
-"Language-Team: Finnish <http://weblate.example.com/projects/"
-"talentadore-translation/ta-translation/fi/>\n"
+"PO-Revision-Date: 2025-09-18 12:42+0000\n"
+"Last-Translator: Weblate Admin <sabbir@gmail.com>\n"
+"Language-Team: Finnish <http://18.197.115.157/projects/ta-demo-translation/"
+"test-component/fi/>\n"
 "Language: fi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -566,7 +566,7 @@ msgstr "Vahvista esittelyn poistaminen"
 
 #: actions/interview_actions.py:315 candidate_introduction_search.py:476
 msgid "Are you sure want to delete this introduction?"
-msgstr "Oletko varma että haluat poistaa tämän esittelyn? "
+msgstr "Oletko varma että haluat poistaa tämän esittelyn?"
 
 #: actions/interview_actions.py:316 candidate_introduction_search.py:477
 #: forms/get_forms.py:1304 talent_search.py:397 templates/applicant.html:1052
