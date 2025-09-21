@@ -1,3 +1,20 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-21 19:13+0000\n"
+"PO-Revision-Date: 2025-09-21 19:13+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Finnish <https://tr.talentadore.com/projects/"
+"sabbir-translation/test-component/fi/>\n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.13.3\n"
+
 #: advanced_search.py:123
 msgid "Maximum record limit reached"
 msgstr "Tallennusten maksimimäärä saavutettu"
