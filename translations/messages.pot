@@ -27,3 +27,8 @@ msgstr ""
 #: advanced_search.py:838
 msgid "test"
 msgstr ""
+
+
+#: advanced_search.py:838
+msgid "test2"
+msgstr ""
