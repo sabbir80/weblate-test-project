@@ -23,5 +23,3 @@ msgstr ""
 msgid "Before"
 msgstr ""
 
-msgid "Test"
-msgstr ""
