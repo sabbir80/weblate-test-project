@@ -23,3 +23,5 @@ msgstr ""
 msgid "Before"
 msgstr ""
 
+msgid "test"
+msgstr ""
