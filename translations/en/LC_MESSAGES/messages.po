@@ -18,3 +18,11 @@ msgstr ""
 #: templates/popups.html:1002 views/i18n.py:743
 msgid "Select all"
 msgstr ""
+
+#: advanced_search.py:838
+msgid "Before"
+msgstr ""
+
+#: advanced_search.py:838
+msgid "Test"
+msgstr ""
