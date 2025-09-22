@@ -1,0 +1,23 @@
+msgid "Maximum record limit reached"
+msgstr "Maximum record limit reached"
+
+msgid "Add filter"
+msgstr "Add filter"
+
+msgid "Add filter group"
+msgstr "Add filter group"
+
+msgid "After"
+msgstr "After"
+
+msgid "Select all"
+msgstr "Select all"
+
+msgid "Before"
+msgstr "Before"
+
+msgid "Hello"
+msgstr "Hello"
+
+msgid "test hello"
+msgstr "test hello"
