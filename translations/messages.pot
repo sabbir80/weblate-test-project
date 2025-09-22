@@ -27,8 +27,5 @@ msgstr "Before"
 msgid "Hello"
 msgstr "Hello"
 
-msgid "test"
-msgstr "test"
-
-msgid "test2"
-msgstr "test2"
+msgid "test hello"
+msgstr "test hello"
