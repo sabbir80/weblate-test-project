@@ -22,5 +22,5 @@ msgstr "Valitse kaikki"
 
 #: advanced_search.py:838
 msgid "Before"
-msgstr "Ennenn"
+msgstr "Ennennnc"
 
