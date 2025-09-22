@@ -1,24 +1,41 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-22 08:01+0000\n"
+"PO-Revision-Date: 2025-09-22 08:01+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: English <https://tr.talentadore.com/projects/"
+"sabbir-translation/test-component/en/>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.13.3\n"
+
 #: advanced_search.py:123
 msgid "Maximum record limit reached"
-msgstr ""
+msgstr "Maximum record limit reached"
 
 #: advanced_search.py:834
 msgid "Add filter"
-msgstr ""
+msgstr "Add filter"
 
 #: advanced_search.py:835
 msgid "Add filter group"
-msgstr ""
+msgstr "Add filter group"
 
 #: advanced_search.py:836
 msgid "After"
-msgstr ""
+msgstr "After"
 
 #: actions/candidate_introduction_actions.py:187 advanced_search.py:837
 #: templates/popups.html:1002 views/i18n.py:743
 msgid "Select all"
-msgstr ""
+msgstr "Select all"
 
 #: advanced_search.py:838
 msgid "Before"
-msgstr ""
+msgstr "Before"
