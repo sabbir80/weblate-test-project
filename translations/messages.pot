@@ -25,6 +25,3 @@ msgstr ""
 
 msgid "test"
 msgstr ""
-
-msgid "test2"
-msgstr ""
