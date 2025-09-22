@@ -26,3 +26,6 @@ msgstr "Before"
 
 msgid "Hello"
 msgstr "Hello"
+
+msgid "test"
+msgstr "test"
