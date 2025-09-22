@@ -1,34 +1,34 @@
 
 #: advanced_search.py:123
 msgid "Maximum record limit reached"
-msgstr "Maximum record limit reached"
+msgstr ""
 
 #: advanced_search.py:834
 msgid "Add filter"
-msgstr "Add filter"
+msgstr ""
 
 #: advanced_search.py:835
 msgid "Add filter group"
-msgstr "Add filter group"
+msgstr ""
 
 #: advanced_search.py:836
 msgid "After"
-msgstr "After"
+msgstr ""
 
 #: actions/candidate_introduction_actions.py:187 advanced_search.py:837
 #: templates/popups.html:1002 views/i18n.py:743
 msgid "Select all"
-msgstr "Select all"
+msgstr ""
 
 #: advanced_search.py:838
 msgid "Before"
-msgstr "Before"
+msgstr ""
 
 msgid "Hello"
-msgstr "Hello"
+msgstr ""
 
 msgid "test hello"
-msgstr "test hello"
+msgstr ""
 
 msgid "testing hello"
-msgstr "testing hello"
+msgstr ""
