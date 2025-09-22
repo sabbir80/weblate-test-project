@@ -39,8 +39,5 @@ msgstr ""
 msgid "Before"
 msgstr ""
 
-msgid "test"
-msgstr ""
-
 msgid "Hello"
 msgstr ""
