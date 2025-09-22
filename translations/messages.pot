@@ -24,11 +24,3 @@ msgstr ""
 msgid "Before"
 msgstr ""
 
-msgid "Hello"
-msgstr ""
-
-msgid "test hello"
-msgstr ""
-
-msgid "testing hello"
-msgstr ""
