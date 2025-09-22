@@ -22,4 +22,8 @@ msgstr "Valitse kaikki"
 #: advanced_search.py:838
 msgid "Before"
 msgstr "Ennennnc"
+#, fuzzy
+#| msgid "test hello"
+msgid "testing hello"
+msgstr "test hello"
 
