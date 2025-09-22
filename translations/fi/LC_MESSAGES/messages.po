@@ -21,3 +21,8 @@ msgstr "Hello"
 
 msgid "test hello"
 msgstr "test hello"
+
+#, fuzzy
+#| msgid "test hello"
+msgid "testing hello"
+msgstr "test hello"
