@@ -29,3 +29,6 @@ msgstr "Hello"
 
 msgid "test hello"
 msgstr "test hello"
+
+msgid "testing hello"
+msgstr "testing hello"
