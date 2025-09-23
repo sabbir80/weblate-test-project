@@ -27,3 +27,6 @@ msgstr ""
 #: advanced_search.py:838
 msgid "hello"
 msgstr ""
+
+msgid "hello2"
+msgstr ""
