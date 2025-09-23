@@ -35,3 +35,6 @@ msgstr "Ennennnc"
 
 msgid "hello"
 msgstr ""
+
+msgid "hello2"
+msgstr ""
