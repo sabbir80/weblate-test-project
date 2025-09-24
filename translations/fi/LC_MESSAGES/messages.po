@@ -39,4 +39,4 @@ msgid "hello2"
 msgstr "Hei Hei"
 
 msgid "welcome"
-msgstr ""
+msgstr "tervetuloa"
