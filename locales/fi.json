@@ -5,5 +5,6 @@
         "cancel": "Peruuta"
     },
     "welcome_message": "Hei, {username}! Sinulla on {count} uutta viestiä.",
-    "page_not_found": "Sivua ei löydy"
+    "page_not_found": "Sivua ei löydy",
+    "hello": "Moi"
 }
