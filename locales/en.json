@@ -1,0 +1,9 @@
+{
+  "app_title": "My Awesome Application",
+  "buttons": {
+    "submit": "Submit",
+    "cancel": "Cancel"
+  },
+  "welcome_message": "Hello, {username}! You have {count} new messages.",
+  "page_not_found": "Page Not Found"
+}
