@@ -1,9 +1,9 @@
 {
-  "app_title": "Mahtava Sovellukseni",
-  "buttons": {
-    "submit": "Lähetä",
-    "cancel": "Peruuta"
-  },
-  "welcome_message": "Hei, {username}! Sinulla on {count} uutta viestiä.",
-  "page_not_found": ""
+    "app_title": "Mahtava Sovellukseni",
+    "buttons": {
+        "submit": "Lähetä",
+        "cancel": "Peruuta"
+    },
+    "welcome_message": "Hei, {username}! Sinulla on {count} uutta viestiä.",
+    "page_not_found": "Sivua ei löydy"
 }
