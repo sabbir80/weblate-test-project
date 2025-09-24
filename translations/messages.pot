@@ -30,3 +30,6 @@ msgstr ""
 
 msgid "hello2"
 msgstr ""
+
+msgid "welcome"
+msgstr ""
