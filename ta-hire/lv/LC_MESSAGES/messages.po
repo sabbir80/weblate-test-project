@@ -21836,3 +21836,6 @@ msgstr "CCL sponsorēts"
 
 msgid "CCL"
 msgstr ""
+
+msgid "test"
+msgstr ""
