@@ -27259,3 +27259,6 @@ msgstr ""
 
 msgid "test"
 msgstr ""
+
+msgid "hello"
+msgstr ""

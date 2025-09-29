@@ -29325,3 +29325,8 @@ msgstr ""
 
 msgid "test"
 msgstr ""
+
+#, fuzzy
+#| msgid "Hello"
+msgid "hello"
+msgstr "Bonjour"
