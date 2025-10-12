@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2025-09-29 11:19+0000\n"
-"PO-Revision-Date: 2025-10-07 13:08+0000\n"
+"PO-Revision-Date: 2025-10-13 20:08+0000\n"
 "Last-Translator: Weblate Admin <sabbir@gmail.com>\n"
 "Language-Team: Finnish <https://tr.talentadore.com/projects/"
 "sabbir-translation/test-ta-hire/fi/>\n"
@@ -15262,7 +15262,7 @@ msgstr "Hyväksy"
 
 #: models/application_search_configuration.py:148
 msgid "Latest note"
-msgstr ""
+msgstr "Uusin muistiinpano"
 
 #: models/application_search_configuration.py:180
 #: models/application_search_configuration.py:440
@@ -15360,7 +15360,7 @@ msgstr "Arkistoitu"
 
 #: models/career_page_configuration.py:51
 msgid "Domain"
-msgstr ""
+msgstr "Verkkotunnus"
 
 #: models/career_page_configuration.py:56
 msgid "Career page domain"
