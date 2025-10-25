@@ -29223,3 +29223,6 @@ msgstr ""
 #| msgid "Hello"
 msgid "hello"
 msgstr "Sveiki"
+
+msgid "hello there I am testing"
+msgstr ""
