@@ -29386,4 +29386,4 @@ msgid "hello"
 msgstr "Hei"
 
 msgid "hello there I am testing"
-msgstr ""
+msgstr "kire bhaya ki obostha"
