@@ -5928,7 +5928,7 @@ msgstr "Lisätietoja"
 #: templates/homepage_dashboard.html:226 templates/my_tasks.html:689
 #: views/i18n.py:71 views/i18n.py:126 views/i18n.py:829
 msgid "Open"
-msgstr "Avaa"
+msgstr "Avaara"
 
 #: actions/admin_actions.py:860 templates/layout_main.html:87
 msgid "Saved!"
