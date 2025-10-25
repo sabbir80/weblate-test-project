@@ -13639,7 +13639,7 @@ msgstr "Valitse"
 #: lib/alpaca/alpaca_model.py:220 lib/alpaca/alpaca_model.py:265
 #: lib/alpaca/alpaca_model.py:599
 msgid "Open attachment"
-msgstr "Avaa liite"
+msgstr "Avaara liite"
 
 #: lib/alpaca/alpaca_model.py:602 templates/applicant.html:513
 #: templates/applicant.html:1339 templates/mailer_overlays.html:67
