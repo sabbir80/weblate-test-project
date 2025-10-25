@@ -3,10 +3,10 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2025-09-29 11:19+0000\n"
-"PO-Revision-Date: 2025-10-23 18:08+0000\n"
+"PO-Revision-Date: 2025-10-25 19:26+0000\n"
 "Last-Translator: Weblate Admin <sabbir@gmail.com>\n"
-"Language-Team: Finnish <https://tr.talentadore.com/projects/sabbir-"
-"translation/test-ta-hire/fi/>\n"
+"Language-Team: Finnish <https://tr.talentadore.com/projects/"
+"sabbir-translation/test-ta-hire/fi/>\n"
 "Language: fi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -5928,7 +5928,7 @@ msgstr "Lisätietoja"
 #: templates/homepage_dashboard.html:226 templates/my_tasks.html:689
 #: views/i18n.py:71 views/i18n.py:126 views/i18n.py:829
 msgid "Open"
-msgstr "Avaa"
+msgstr "Avaaraa"
 
 #: actions/admin_actions.py:860 templates/layout_main.html:87
 msgid "Saved!"
@@ -6980,7 +6980,7 @@ msgstr "Palaute"
 
 #: actions/candidate_feedback_actions.py:68
 msgid "Open feedback"
-msgstr "Avoin palaute"
+msgstr "Avoin palauteboksi"
 
 #: actions/candidate_feedback_actions.py:72
 msgid "How likely would you be to recommend us to your friends?"
